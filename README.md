@@ -2,8 +2,8 @@
 
 # 📚 Languages 📚
 
-- [EN](https://github.com/TEO-NFT/HistoryOfComputer/edit/main/README.md#english)
-- [ES](https://github.com/TEO-NFT/HistoryOfComputer/edit/main/README.md#spanish)
+- [EN](https://github.com/TEO-NFT/HistoryOfComputer/tree/main#english)
+- [ES](https://github.com/TEO-NFT/HistoryOfComputer/tree/main#spanish)
 
 # English
 
